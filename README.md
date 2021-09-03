@@ -1,0 +1,2 @@
+# jupytor-note
+basics
